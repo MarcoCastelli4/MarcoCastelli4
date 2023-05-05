@@ -1,6 +1,6 @@
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Marco Castelli</a> 👋
+Hi there, I'm Marco Castelli 👋
 </h3>
 
 <h2 align="center">
@@ -14,7 +14,7 @@ I've been studying computer science and programming languages since 2014, from h
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/marco-castelli-65643b203/"><img align="left" src="https://www.linkedin.com/in/yushi95/" alt="icon | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/marco-castelli-65643b203/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/_marcocastelli?igshid=YmMyMTA2M2Y="><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 
 </br>
