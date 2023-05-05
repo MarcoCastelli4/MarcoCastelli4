@@ -14,7 +14,7 @@ I've been studying computer science and programming languages since 2014, from h
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://www.linkedin.com/in/marco-castelli-65643b203" alt="icon | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/marco-castelli-65643b203/"><img align="left" src="https://www.linkedin.com/in/yushi95/" alt="icon | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/_marcocastelli?igshid=YmMyMTA2M2Y="><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 
 </br>
@@ -56,10 +56,4 @@ I've been studying computer science and programming languages since 2014, from h
 
 - Deploy a backend and api for Web app for University of Verona, this app is an based on LookBack Apriori Algorithm!
 
-## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
