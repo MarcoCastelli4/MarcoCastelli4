@@ -26,8 +26,11 @@ I've been studying computer science and programming languages since 2014, from h
 
 ## 🌱 I'm currently learning
 
-- Laravel framework
-- Python for machine learning
+- Web development with Laravel
+- Machine learning
+- Network security
+- Automated control system
+- Algorithms
 
 ## 💼 Technical Skills
 
