@@ -22,15 +22,11 @@ I've been studying computer science and programming languages since 2014, from h
 
 ## 🔭 I'm currently working on
 
-- University Project in particolar for Web Programming, Machine Learning and Alghoritms.
+- University Project in particolar a Mobile application for Android.
 
 ## 🌱 I'm currently learning
 
-- Web development with Laravel
-- Machine learning
-- Network security
-- Automated control system
-- Algorithms
+- Mobile application development
 
 ## 💼 Technical Skills
 
@@ -41,12 +37,16 @@ I've been studying computer science and programming languages since 2014, from h
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 ![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 </br>
 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
+
 
 
 </br>
