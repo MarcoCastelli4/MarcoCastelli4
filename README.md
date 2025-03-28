@@ -4,9 +4,8 @@ Hi there, I'm Marco Castelli 👋
 </h3>
 
 <h2 align="center">
-I'm graduate in Computer Science at University of Verona 💻!
+I have completed a Master's Degree in Computer Science at University of Brescia 💻!
   <br/>
-Hope to obtain a Software Engineer master at University of Brescia!
 </h2> 
 
 
